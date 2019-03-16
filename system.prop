@@ -37,6 +37,9 @@ sys.displayfeature.hbm.enable=true
 # GPS
 persist.vendor.overlay.izat.optin=rro
 
+# Graphics
+debug.cpurend.vsync=false
+
 # IOP
 vendor.iop.enable_prefetch_ofr=0
 vendor.iop.enable_uxe=0
