@@ -172,7 +172,6 @@ PRODUCT_PACKAGES += \
     init.qcom.factory.rc \
     init.qcom.rc \
     init.qcom.usb.rc \
-    init.qti.ufs.rc \
     init.set_kptr.rc \
     init.target.rc \
     init.qcom.performance.rc \
